@@ -122,5 +122,4 @@ int main()
     printf("  %d ",T_Amt);
 
     printf("\t");
-
 }
