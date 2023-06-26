@@ -6,6 +6,7 @@ int  main()
 
    int i ,j;
    
+   
     printf(" Enetr a string : ");
 	scanf("%s",&str);
 
