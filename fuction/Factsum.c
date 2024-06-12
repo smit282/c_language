@@ -33,6 +33,4 @@ int main()
   
   printf("\n");
   fact(arr);
- 
-  
 }
